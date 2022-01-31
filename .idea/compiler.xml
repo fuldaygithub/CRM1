@@ -9,8 +9,5 @@
         <module name="CRM" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="CRM" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
